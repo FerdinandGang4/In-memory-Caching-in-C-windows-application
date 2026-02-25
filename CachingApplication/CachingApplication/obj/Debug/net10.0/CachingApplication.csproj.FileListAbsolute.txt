@@ -13,3 +13,11 @@ C:\Users\dinga\OneDrive\Desktop\C# Projects\CachingApplication\CachingApplicatio
 C:\Users\dinga\OneDrive\Desktop\C# Projects\CachingApplication\CachingApplication\CachingApplication\obj\Debug\net10.0\CachingApplication.pdb
 C:\Users\dinga\OneDrive\Desktop\C# Projects\CachingApplication\CachingApplication\CachingApplication\obj\Debug\net10.0\CachingApplication.genruntimeconfig.cache
 C:\Users\dinga\OneDrive\Desktop\C# Projects\CachingApplication\CachingApplication\CachingApplication\obj\Debug\net10.0\ref\CachingApplication.dll
+C:\Users\dinga\OneDrive\Desktop\C# Projects\CachingApplication\CachingApplication\CachingApplication\bin\Debug\net10.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\dinga\OneDrive\Desktop\C# Projects\CachingApplication\CachingApplication\CachingApplication\bin\Debug\net10.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\dinga\OneDrive\Desktop\C# Projects\CachingApplication\CachingApplication\CachingApplication\bin\Debug\net10.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\dinga\OneDrive\Desktop\C# Projects\CachingApplication\CachingApplication\CachingApplication\bin\Debug\net10.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\dinga\OneDrive\Desktop\C# Projects\CachingApplication\CachingApplication\CachingApplication\bin\Debug\net10.0\Microsoft.Extensions.Options.dll
+C:\Users\dinga\OneDrive\Desktop\C# Projects\CachingApplication\CachingApplication\CachingApplication\bin\Debug\net10.0\Microsoft.Extensions.Primitives.dll
+C:\Users\dinga\OneDrive\Desktop\C# Projects\CachingApplication\CachingApplication\CachingApplication\obj\Debug\net10.0\CachingApplication.csproj.AssemblyReference.cache
+C:\Users\dinga\OneDrive\Desktop\C# Projects\CachingApplication\CachingApplication\CachingApplication\obj\Debug\net10.0\CachingA.1607311A.Up2Date

@@ -4,12 +4,12 @@ using System.Text;
 
 namespace CachingApplication.Domain
 {
-    internal class Product
+    public class Product
     {
-        public int Id { get; set; }
-        public string Name { get; set; }
-        public double Price { get; set; }
-        public string Description { get; set; }
+        public int Id { get;}
+        public string Name { get; }
+        public double Price { get; }
+        public string Description { get;}
 
         public Product(int id, string name, double price, string description)
         {
@@ -19,9 +19,7 @@ namespace CachingApplication.Domain
             Description = description;
         }
 
-        public override string? ToString()
-        {
-            return base.ToString();
-        }
+        public override string ToString()
+            => $"#{Id} {Name} - {Price:C} | {Description}";
     }
 }
