@@ -1,0 +1,15 @@
+C:\Users\dinga\OneDrive\Desktop\C# Projects\CachingApplication\CachingApplication\CachingApplication\bin\Debug\net10.0\CachingApplication.exe
+C:\Users\dinga\OneDrive\Desktop\C# Projects\CachingApplication\CachingApplication\CachingApplication\bin\Debug\net10.0\CachingApplication.deps.json
+C:\Users\dinga\OneDrive\Desktop\C# Projects\CachingApplication\CachingApplication\CachingApplication\bin\Debug\net10.0\CachingApplication.runtimeconfig.json
+C:\Users\dinga\OneDrive\Desktop\C# Projects\CachingApplication\CachingApplication\CachingApplication\bin\Debug\net10.0\CachingApplication.dll
+C:\Users\dinga\OneDrive\Desktop\C# Projects\CachingApplication\CachingApplication\CachingApplication\bin\Debug\net10.0\CachingApplication.pdb
+C:\Users\dinga\OneDrive\Desktop\C# Projects\CachingApplication\CachingApplication\CachingApplication\obj\Debug\net10.0\CachingApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dinga\OneDrive\Desktop\C# Projects\CachingApplication\CachingApplication\CachingApplication\obj\Debug\net10.0\CachingApplication.AssemblyInfoInputs.cache
+C:\Users\dinga\OneDrive\Desktop\C# Projects\CachingApplication\CachingApplication\CachingApplication\obj\Debug\net10.0\CachingApplication.AssemblyInfo.cs
+C:\Users\dinga\OneDrive\Desktop\C# Projects\CachingApplication\CachingApplication\CachingApplication\obj\Debug\net10.0\CachingApplication.csproj.CoreCompileInputs.cache
+C:\Users\dinga\OneDrive\Desktop\C# Projects\CachingApplication\CachingApplication\CachingApplication\obj\Debug\net10.0\CachingApplication.sourcelink.json
+C:\Users\dinga\OneDrive\Desktop\C# Projects\CachingApplication\CachingApplication\CachingApplication\obj\Debug\net10.0\CachingApplication.dll
+C:\Users\dinga\OneDrive\Desktop\C# Projects\CachingApplication\CachingApplication\CachingApplication\obj\Debug\net10.0\refint\CachingApplication.dll
+C:\Users\dinga\OneDrive\Desktop\C# Projects\CachingApplication\CachingApplication\CachingApplication\obj\Debug\net10.0\CachingApplication.pdb
+C:\Users\dinga\OneDrive\Desktop\C# Projects\CachingApplication\CachingApplication\CachingApplication\obj\Debug\net10.0\CachingApplication.genruntimeconfig.cache
+C:\Users\dinga\OneDrive\Desktop\C# Projects\CachingApplication\CachingApplication\CachingApplication\obj\Debug\net10.0\ref\CachingApplication.dll
